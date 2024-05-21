@@ -9,11 +9,12 @@ A. Flutter Write Page
 This page includes:
 *  Text fields for entering the user's name and writing an essay.
 *  Clean and modern design using Google Fonts for typography.
-*  Responsive layout suitable for various screen sizes.
+* Responsive layout suitable for various screen sizes.
+
 Usage
-*  Clone this repository.
-*  Integrate the WritePage widget into your Flutter project.
-*  Customize the UI and functionality as needed for your specific use case.
+* Clone this repository.
+* Integrate the WritePage widget into your Flutter project.
+* Customize the UI and functionality as needed for your specific use case.
 
 
 
